@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="fop">
+	<name>FOP extension for Symphony</name>
+	<description>An extension that allows the creation of pdf file from xsl:fo pages</description>
+	<repo type="github">https://github.com/nanymor/FOP</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread//</url>
+	<types>
+		<type>Field Types</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nanymor" symphony="nanymor">Nanymor</name>
+			<website>http://www.bbox.it</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1" date="2011-12-21" min="2.2" />
+	</releases>
+</extension>
