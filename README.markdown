@@ -18,7 +18,7 @@ This extension provides a field that saves a pdf version of entries and a pseudo
 Symphony | Entry Versions
 ------------- | -------------
 2.1.* – 2.0.8 | Not tested
-2.2.* | [0.1](https://github.com/nanymor/FOP/)
+2.2.* | [0.1](https://github.com/nanymor/fop/)
 
 ## Usage
 First step is to create some frontend page and give it a "fop" page type. The page should output an xsl:fo file as xml.
